@@ -1,0 +1,6 @@
+{
+  "name": "DESENROLAE - Plataforma Inteligente de Organização de Estudos",
+  "description": "Plataforma moderna e profissional de estudos para organizar matérias, gerenciar tarefas, prazos, metas e acompanhar o progresso em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
